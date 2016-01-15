@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Arena::moveRobots():robots.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "main:robots.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Robot::col() const:robots.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Arena::attackRobotAt(int, int, int):robots.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Robot::getAttacked(int):robots.cpp">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
